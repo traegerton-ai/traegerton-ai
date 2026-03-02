@@ -8,9 +8,9 @@ I deconstruct complex behavioral patterns into calculable interface logic – op
 
 ### 🧬 Core Research
 
-*   **[Cross-Species-Interface-Architecture (CSIA)](https://github.com):** Abstracting biological conditioning as an **AniPI** (Animal Programming Interface).
-*   **[AI-Dialogue Dynamics](https://github.com):** Analyzing LLM behavior, instruction persistence, and semantic shifts.
-*   **[Stealth & Low-Level Tech](https://github.com):** Silent device discovery and availability analysis (Java/Android).
+*   **[Cross-Species-Interface-Architecture (CSIA)](https://github.com/traegerton-ai/Cross-Species-Interface-Architecture):** Abstracting biological conditioning as an **AniPI** (Animal Programming Interface).
+*   **[AI-Dialogue Dynamics](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues)** Analyzing LLM behavior, instruction persistence, and semantic shifts.
+*   **[Stealth & Low-Level Tech](https://github.com/traegerton-ai/Stealth-SMS-Ping):** Silent device discovery and availability analysis (Java/Android).
 
 ---
 
