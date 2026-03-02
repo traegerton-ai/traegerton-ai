@@ -2,23 +2,23 @@
 
 > **"If only everything were so simple.: mov ah, 4Ch / xor al, al / int 21h"**
 
-Ich dekonstruiere komplexe Verhaltensmuster in berechenbare Schnittstellen-Logik – an der Grenze zwischen Biologie und Code.
+I deconstruct complex behavioral patterns into calculable interface logic – operating at the intersection of biology and code.
 
 ---
 
-### 🧬 Kernforschung
+### 🧬 Core Research
 
-*   **[Cross-Species-Interface-Architecture (CSIA)](https://github.com):** Abstraktion von Tiertraining als **AniPI** (Animal Programming Interface).
-*   **[AI-Dialogue Dynamics](https://github.com):** Analyse von LLM-Verhalten, Instruction Persistence und semantischen Verschiebungen.
-*   **[Stealth & Low-Level Tech](https://github.com):** Silent Device Discovery und Verfügbarkeitsanalyse (Java/Android).
+*   **[Cross-Species-Interface-Architecture (CSIA)](https://github.com):** Abstracting biological conditioning as an **AniPI** (Animal Programming Interface).
+*   **[AI-Dialogue Dynamics](https://github.com):** Analyzing LLM behavior, instruction persistence, and semantic shifts.
+*   **[Stealth & Low-Level Tech](https://github.com):** Silent device discovery and availability analysis (Java/Android).
 
 ---
 
-### 🛠 System-Status
-- **Current Focus:** Das Mapping von biologischer Autonomie auf deterministische Interface-Logik.
+### 🛠 System Status
+- **Current Focus:** Mapping biological autonomy onto deterministic interface logic.
 - **Stack:** Java, C#, Assembly (x86), Cybernetic Modeling.
 
-*"Nicht das Innenleben wird kontrolliert – sondern die Parameter der Schnittstelle werden definiert."*
+*"It's not the inner workings that are controlled – but rather the parameters of the interface that are defined."*
 
 
 
