@@ -1,4 +1,6 @@
+<p align="center">
 # ⚡ Traegerton-AI | Cybernetic Systems & Behavioral Logic
+</p>
 
 > **"If only everything were so simple.: mov ah, 4Ch / xor al, al / int 21h"**
 
