@@ -21,6 +21,12 @@ I deconstruct complex behavioral patterns into calculable interface logic – op
 *   **[Stealth & Low-Level Tech]  
 (https://github.com/traegerton-ai/Stealth-SMS-Ping)**  
 *This project bypasses that limitation using custom delivery logic, timeout handling, and state correlation*
+
+*   **[UCOP — User-Calibrated Output Protocol]  
+(https://github.com/traegerton-ai/UCOP-Framework)**  
+*A lightweight interaction framework for stabilizing human–AI dialogue through proportionality, standing coherence, and context integrity.*
+
+
   
 ---
 
