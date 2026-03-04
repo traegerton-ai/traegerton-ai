@@ -1,4 +1,4 @@
-<p align="center">
+# <p align="center">
 # ⚡ Traegerton-AI | Cybernetic Systems & Behavioral Logic
 </p>
 
