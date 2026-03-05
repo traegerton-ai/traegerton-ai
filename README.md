@@ -2,17 +2,18 @@
 ⚡ Traegerton-AI | Cybernetic Systems & Behavioral Logic
 </h1>
 
-> **"If only everything were so simple: mov ah,4Ch / xor al,al / int 21h"**
+*<p align="center">If only everything were so simple: mov ah,4Ch / xor al,al / int 21h</p>*  
 
-I analyze complex behavioral systems and translate them into **deterministic interface logic**.
+*<p align="center">I analyze complex behavioral systems and translate them into deterministic interface logic</p>* 
+
+---
 
 My work operates at the intersection of:
-
 - biological behavior  
 - cybernetic systems  
 - human–AI interaction  
 
-The focus is not on controlling inner mechanisms, but on **defining the parameters of the interface** through which systems interact.
+The focus is not on controlling inner mechanisms, but on defining the parameters of the interface through which systems interact.
 
 ---
 
