@@ -2,53 +2,75 @@
 ⚡ Traegerton-AI | Cybernetic Systems & Behavioral Logic
 </h1>
 
-> **"If only everything were so simple.: mov ah, 4Ch / xor al, al / int 21h"**
+> **"If only everything were so simple: mov ah,4Ch / xor al,al / int 21h"**
 
-I deconstruct complex behavioral patterns into calculable interface logic – operating at the intersection of biology and code.
+I analyze complex behavioral systems and translate them into **deterministic interface logic**.
+
+My work operates at the intersection of:
+
+- biological behavior  
+- cybernetic systems  
+- human–AI interaction  
+
+The focus is not on controlling inner mechanisms, but on **defining the parameters of the interface** through which systems interact.
 
 ---
 
-### 🧬 Core Research
+## 🧬 Core Research
 
-*   **[Cross-Species-Interface-Architecture (CSIA)]  
-(https://github.com/traegerton-ai/Cross-Species-Interface-Architecture)**  
-*Abstracting biological conditioning as an **AniPI** (Animal Programming Interface)*
-  
-*   **[AI-Dialogue Dynamics-Structured observations from real human-AI dialogues]  
-(https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues)**  
-*Analyzing LLM behavior, instruction persistence, and semantic shifts.*
-  
-*   **[Stealth & Low-Level Tech]  
-(https://github.com/traegerton-ai/Stealth-SMS-Ping)**  
-*This project bypasses that limitation using custom delivery logic, timeout handling, and state correlation*
+### Cross-Species Interface Architecture (CSIA)
+https://github.com/traegerton-ai/Cross-Species-Interface-Architecture  
 
-*   **[UCOP — User-Calibrated Output Protocol]  
-(https://github.com/traegerton-ai/UCOP-Framework)**  
-*A lightweight interaction framework for stabilizing human–AI dialogue through proportionality, standing coherence, and context integrity.*
+Abstracting biological conditioning into a programmable model:  
+**AniPI – Animal Programming Interface**
 
-
-  
 ---
 
-### 🛠 System Status
-- **Current Focus:** Mapping biological autonomy onto deterministic interface logic.
-- **Stack:** Java, C#, Assembly (x86), Cybernetic Modeling.
+### AI Dialogue Dynamics
+https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues  
 
-*"It's not the inner workings that are controlled – but rather the parameters of the interface that are defined."*
+Structured observations of emergent behavior in long human–AI dialogues, including:
 
+- instruction persistence failure  
+- semantic attribution drift  
+- interaction calibration dynamics  
 
+---
 
-<!--
-**traegerton-ai/traegerton-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UCOP — User-Calibrated Output Protocol
+https://github.com/traegerton-ai/UCOP-Framework  
 
-Here are some ideas to get you started:
+A lightweight interaction framework designed to stabilize human–AI dialogue through:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- proportionality  
+- standing coherence  
+- context integrity  
+
+UCOP functions as a **dialogue governance layer** that reduces drift and token inefficiency in extended interactions.
+
+---
+
+### Stealth & Low-Level Tech
+https://github.com/traegerton-ai/Stealth-SMS-Ping  
+
+Low-level experimentation with delivery logic, timeout handling, and state correlation beyond standard SMS behavior.
+
+---
+
+## 🛠 System Focus
+
+Current research direction:
+
+**Mapping biological autonomy onto deterministic interface logic.**
+
+Technologies:
+
+- Java  
+- C#  
+- Assembly (x86)  
+- Cybernetic modeling  
+
+---
+
+> *“It is not the internal workings that are controlled —  
+but the parameters of the interface.”*
