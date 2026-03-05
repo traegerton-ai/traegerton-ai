@@ -55,6 +55,24 @@ UCOP functions as a **dialogue governance layer** that reduces drift and token i
 
 ---
 
+## Token Efficiency Observation
+
+Baseline (no UCOP):
+~1,250 characters
+≈ 300–350 tokens
+
+UCOP Session Mode active:
+~309 characters
+≈ 75–90 tokens
+
+Result:
+~75% reduction in response size for the identical question.
+
+Observation:
+The UCOP proportional-response constraint significantly reduces default explanatory expansion and token overhead.
+
+---
+
 ### Stealth & Low-Level Tech
 https://github.com/traegerton-ai/Stealth-SMS-Ping  
 
