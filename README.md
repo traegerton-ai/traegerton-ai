@@ -4,7 +4,7 @@
 
 *<p align="center">If only everything were so simple: mov ah,4Ch / xor al,al / int 21h</p>*  
 
-*<p align="center">I analyze complex behavioral systems and translate them into deterministic interface logic</p>* 
+*<p align="center">Analyze emergent dynamics in AI, dialogues, and biological behavior.</p>* 
 
 ---
 
