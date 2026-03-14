@@ -41,6 +41,8 @@ Structured observations of emergent behavior in long human–AI dialogues, inclu
 ### UCOP — User-Calibrated Output Protocol
 https://github.com/traegerton-ai/UCOP-Framework  
 
+## ***<p align="center">UCOP STATUS | ADJUSTMENTS<p/>***
+
 UCOP is intended for anyone who wants to conduct stable, coherent, and context-consistent AI dialogues.
 It is particularly useful in longer interactions where dialogue drift, implicit assumptions, or unnecessary token expansion can occur.
 
