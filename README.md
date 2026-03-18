@@ -15,7 +15,7 @@ A research-driven framework ecosystem for analyzing and stabilizing emergent beh
 → DDMS (Monitoring Layer)  
 → UCOP (Interaction Stabilization)
 
--
+⋯
 
 **My work operates at the intersection of:**
 - biological behavior  
