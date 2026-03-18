@@ -30,7 +30,7 @@ The focus is not on controlling inner mechanisms, but on defining the parameters
 
 ## 🧬 Core Research
 
-### Cross-Species Interface Architecture (CSIA)
+### 🌉 Cross-Species Interface Architecture (CSIA)
 https://github.com/traegerton-ai/Cross-Species-Interface-Architecture  
 
 Abstracting biological conditioning into a programmable model:  
@@ -38,7 +38,7 @@ Abstracting biological conditioning into a programmable model:
 
 ---
 
-### AI Dialogue Dynamics | Updated - 18.03.2026
+### 🧠 AI Dialogue Dynamics | Updated - 18.03.2026
 https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues  
 
 Structured observations of emergent behavior in long human–AI dialogues, including:
@@ -49,7 +49,7 @@ Structured observations of emergent behavior in long human–AI dialogues, inclu
 
 ---
 
-### UCOP — User-Calibrated Output Protocol | Updated - 14.03.2026
+### ⚖️ UCOP — User-Calibrated Output Protocol | Updated - 14.03.2026
 https://github.com/traegerton-ai/UCOP-Framework  
 
 UCOP is intended for anyone who wants to conduct stable, coherent, and context-consistent AI dialogues.
