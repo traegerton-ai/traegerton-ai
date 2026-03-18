@@ -8,6 +8,17 @@
 
 ---
 
+What this is:
+
+A research-driven framework ecosystem for analyzing and stabilizing emergent behavior in LLM systems.
+
+Start here:
+→ DDMS (Monitoring Layer)
+→ UCOP (Interaction Stabilization)
+→ AI Dialogue Dynamics (Observed phenomena)
+
+---
+
 My work operates at the intersection of:
 - biological behavior  
 - cybernetic systems  
