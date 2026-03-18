@@ -2,24 +2,22 @@
 ⚡ Traegerton-AI | Cybernetic Systems & Behavioral Logic
 </h1>
 
-*<p align="center">If only everything were so simple: mov ah,4Ch / xor al,al / int 21h</p>*  
-
-*<p align="center">Analyze emergent dynamics in AI, dialogues, and biological behavior.</p>* 
+*<p align="center">If only everything were so simple: mov ah,4Ch / xor al,al / int 21h  
+Analyze emergent dynamics in AI, dialogues, and biological behavior.</p>* 
 
 ---
 
-What this is:
-
+**What this is:**  
 A research-driven framework ecosystem for analyzing and stabilizing emergent behavior in LLM systems.
 
-Start here:
-→ DDMS (Monitoring Layer)
+**Start here:**  
+→ AI Dialogue Dynamics (Observed phenomena)  
+→ DDMS (Monitoring Layer)  
 → UCOP (Interaction Stabilization)
-→ AI Dialogue Dynamics (Observed phenomena)
 
----
+-
 
-My work operates at the intersection of:
+**My work operates at the intersection of:**
 - biological behavior  
 - cybernetic systems  
 - human–AI interaction  
