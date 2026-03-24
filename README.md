@@ -7,6 +7,15 @@ Analyze emergent dynamics in AI, dialogues, and biological behavior.</p>*
 
 ---
 
+## 🔥 Document of the Day 🔥
+
+➡️ **[ANATOMIE EINES SYSTEMKOLLAPSES](./observations/ANATOMIE_EINES_SYSTEMKOLLAPSES.md)**
+
+> Übergang von stabiler Kohärenz → Post-Threshold-Instabilität  
+> 96h Langzeitdialog unter UCOP
+
+---
+
 **What this is:**  
 A research-driven framework ecosystem for analyzing and stabilizing emergent behavior in LLM systems.
 
