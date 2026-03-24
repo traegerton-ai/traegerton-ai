@@ -9,7 +9,7 @@ Analyze emergent dynamics in AI, dialogues, and biological behavior.</p>*
 
 ## 🔥 Document of the Day 🔥
 
-➡️ **[ANATOMIE EINES SYSTEMKOLLAPSES](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues/blob/e7d03a02ff2fd984a2965d4fd7d062953276b139/observations/ANATOMIE_EINES_SYSTEMKOLLAPSES.md)
+➡️ **[ANATOMIE EINES SYSTEMKOLLAPSES](https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues/blob/main/observations/ANATOMIE_EINES_SYSTEMKOLLAPSES.md)
 
 > Übergang von stabiler Kohärenz → Post-Threshold-Instabilität  
 > 96h Langzeitdialog unter UCOP
