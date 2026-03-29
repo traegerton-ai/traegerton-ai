@@ -76,7 +76,7 @@ UCOP functions as a **dialogue governance layer** that reduces drift and token i
 
 
 ### 🔥 Dynamic Dialog Management System | Updated - 29.03.2026
-[Overview - Technical system description](https://github.com/traegerton-ai/Dynamic-Dialog-Monitoring-System-DDMS-/tree/main)
+[Overview - Technical system description](https://github.com/traegerton-ai/Dynamic-Dialog-Management-System-DDMS/)
 
 1. Large Language Models lose corrective capability after extended interaction while still recognizing their own errors.
 2. This creates a hidden, currently unmeasurable risk in enterprise AI deployment.
