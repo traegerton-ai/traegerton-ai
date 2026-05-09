@@ -45,7 +45,10 @@ Abstracting biological conditioning into a programmable model:
 
 ---
 
-### 🧠 AI Dialogue Dynamics | Updated - 18.03.2026
+### 🧠 AI Dialogue Dynamics | Updated - 09.05.2026
+---
+**All analyses I provided within my documentation have been removed from Microsoft Semantic Kernel.**
+---
 https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues  
 
 Structured observations of emergent behavior in long human–AI dialogues, including:
